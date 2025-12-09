@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+
+# OS files
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
