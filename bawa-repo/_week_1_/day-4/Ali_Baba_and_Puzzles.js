@@ -22,7 +22,7 @@ Output
 Print "YES" (without quotes) if you get the fourth number using arithmetic operators, otherwise, print "NO" (without quotes).
 */
 
-function memo_and_momo(input)
+function ali_baba_and_puzzles(input)
 {
     // Splitting the string and
     // converting them to Number using map method
@@ -37,6 +37,6 @@ function memo_and_momo(input)
     else return "NO"
 }
 
-console.log(memo_and_momo("3 4 5 23"));
-console.log(memo_and_momo("9 5 3 7"));
-console.log(memo_and_momo("1 2 3 1"));
+console.log(ali_baba_and_puzzles("3 4 5 23"));
+console.log(ali_baba_and_puzzles("9 5 3 7"));
+console.log(ali_baba_and_puzzles("1 2 3 1"));
